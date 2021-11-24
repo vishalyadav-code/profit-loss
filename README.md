@@ -1,4 +1,12 @@
-# profit-loss
-It tells the user how much proifit or loss he/she making on a stock.
+# Profit/Loss in Stocks!
 
-Technologies used:Html, css and js.
+## About
+
+This app will check if you are in Profit or Loss when you enter Stocks initial price,Quantity and current price. Also you will get how much percentage u gained/lost
+
+## Language used
+
+- HTML5
+- CSS3
+- JavaScript
+- Check out the live project - "[Live](https://vishalyadav-code.github.io/profit-loss/)"
